@@ -6,8 +6,8 @@
 
 > sudo apt-get update
 > sudo apt-get update --fix-missing
-> > sudo apt-get install gcc
-> > gcc -v
+> ### sudo apt-get install gcc
+> ### gcc -v
 
 > ls
 > mkdir folderName
@@ -16,7 +16,7 @@
 
 
 ## To compile the code in folderName :
-### > gcc -o Nom fileName.c
+> ### gcc -o Nom fileName.c
 
 ## To execute the code :
-### > ./Nom
+> ### ./Nom
