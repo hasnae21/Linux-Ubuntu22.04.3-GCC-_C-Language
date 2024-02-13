@@ -5,7 +5,9 @@
 - create username and password for a sudo user
 - update and synchronisation :
   > sudo apt-get update
+  
    or
+  
   > sudo apt-get update --fix-missing
 
 - install GCC and verify the version using the flag -v :
@@ -15,11 +17,9 @@
 - create new folder in Linux :
   > ls
 
-  &
 
   > mkdir folderName
 
-  &
   
   > cd folderName
 
