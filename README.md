@@ -23,8 +23,8 @@
   > sudo apt update && sudo apt upgrade
 
 
-### To compile the code in folderName :
+## To compile the code in folderName :
   #### gcc -o Nom fileName.c
 
-### To execute the code :
+## To execute the code :
   #### ./Nom
