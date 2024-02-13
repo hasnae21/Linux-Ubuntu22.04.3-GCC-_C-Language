@@ -14,9 +14,13 @@
 
 - create new folder in Linux :
   > ls
+
   &
+
   > mkdir folderName
+
   &
+  
   > cd folderName
 
 - update when errors :
