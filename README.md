@@ -34,7 +34,7 @@
   #### mpicc –o executable programme.c
 
 ## To execute the code using MPI :
-  ####  mpirun –np NombreProcessus executable   // avec n=nbr_de_processus
+  ####  mpirun –np NombreProcessus executable  
 ----------------------------------------------------------------
 
 - update when errors :
